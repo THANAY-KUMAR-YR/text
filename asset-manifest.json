@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/text/static/css/main.a6633c52.css",
-    "main.js": "/text/static/js/main.1d7444f2.js",
+    "main.css": "/text/static/css/main.ac5f95c2.css",
+    "main.js": "/text/static/js/main.f656e79d.js",
     "static/js/787.a86796b9.chunk.js": "/text/static/js/787.a86796b9.chunk.js",
     "static/media/video.mp4": "/text/static/media/video.e183171cac1750c324e9.mp4",
-    "static/media/Whitepaper .pdf": "/text/static/media/Whitepaper .ea3b4d41f47341998884.pdf",
+    "static/media/Tokenomics1.jpg": "/text/static/media/Tokenomics1.e4c84adb1dcf7b1a8f87.jpg",
+    "static/media/Whitepaper.pdf": "/text/static/media/Whitepaper.ea3b4d41f47341998884.pdf",
+    "static/media/Tokenomics2.jpg": "/text/static/media/Tokenomics2.d52cc9334559d913a71b.jpg",
     "static/media/join_us_icon.gif": "/text/static/media/join_us_icon.4cabccd234633e0e9bea.gif",
     "static/media/BG-roadmap.png": "/text/static/media/BG-roadmap.a3c5c4503bd6cb595967.png",
     "static/media/web_icon.gif": "/text/static/media/web_icon.13b730e4be5959eb75ec.gif",
     "static/media/logo_tree_removebg.png": "/text/static/media/logo_tree_removebg.54804dd20ea9b66fc8ce.png",
+    "static/media/bg1.jpg": "/text/static/media/bg1.b8e20db8bc5e976f336c.jpg",
+    "static/media/bg4.jpg": "/text/static/media/bg4.468f505ffb08a634692f.jpg",
     "static/media/termcards.jpg": "/text/static/media/termcards.468f505ffb08a634692f.jpg",
     "static/media/Support_icon.gif": "/text/static/media/Support_icon.44456ca88806bd9adb76.gif",
     "static/media/bg-top.jpg": "/text/static/media/bg-top.bf80a63888c32d7961f1.jpg",
@@ -16,12 +20,12 @@
     "static/media/coinmarketcaplogo.png": "/text/static/media/coinmarketcaplogo.f94b140edbeaa4db34da.png",
     "static/media/foot-bg.jpg": "/text/static/media/foot-bg.6c795cb41cb3f8987d64.jpg",
     "index.html": "/text/index.html",
-    "main.a6633c52.css.map": "/text/static/css/main.a6633c52.css.map",
-    "main.1d7444f2.js.map": "/text/static/js/main.1d7444f2.js.map",
+    "main.ac5f95c2.css.map": "/text/static/css/main.ac5f95c2.css.map",
+    "main.f656e79d.js.map": "/text/static/js/main.f656e79d.js.map",
     "787.a86796b9.chunk.js.map": "/text/static/js/787.a86796b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6633c52.css",
-    "static/js/main.1d7444f2.js"
+    "static/css/main.ac5f95c2.css",
+    "static/js/main.f656e79d.js"
   ]
 }
