@@ -1,0 +1,72 @@
+:root {
+    --primary: #59ab07;
+    --primary2: #4d8a0f;
+    --default: white;
+    --primary3: #80ff00;
+}
+
+.toko--cont{
+    text-align: center;
+    border-top:1px solid #80ff00 ;
+    padding: 20px;
+    background-image: url(../images/bg4.jpg);
+    background-position: center;
+    background-size: cover;
+    min-width:360px;
+}
+
+.toko--cont .toko--heading{
+    color: var(--default);
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.toko{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* gap: 80px; */
+    flex-wrap: wrap;
+    /* min-width: 360px; */
+}
+
+.toko--cards{
+    max-width: 440px;
+    max-height: 440px;
+    margin: 15px auto;
+    border-radius: 10px;
+    /* background-color: var(--primary2); */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* cursor: pointer; */
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.toko--cards img{
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto;
+}
+
+.toko--cards:hover{
+    /* transform: rotate3d(1, 0, 0.3, 15deg); */
+    box-shadow: 0px 0px 30px black;
+    animation: shake 1s ease;
+    
+
+    /* will-change: transform; transition: all 400ms cubic-bezier(0.03, 0.98, 0.52, 0.99) 0s; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1); */
+}
+
+
+@keyframes shake {
+    0%{
+        transform: rotate3d(1, 1, 1, -40deg);
+    }
+    100%{
+        transform: rotate3d(1, 1, 1, 0deg);
+
+    }
+}

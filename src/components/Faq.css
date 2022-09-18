@@ -1,0 +1,82 @@
+:root {
+    --primary: #59ab07;
+    --primary2: #4d8a0f;
+    --default: white;
+    --primary3: #80ff00;
+}
+
+.container{
+    background-image: url(../images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* background: linear-gradient(#013717, var(--primary)); */
+    /* background-color: #013717; */
+    padding: 20px 50px;
+    min-width:100%;
+    /* border: 2px solid var(--primary); */
+    border-left: none;
+    border-right: none;
+}
+
+.faq--heading{
+    color: white;
+    position: relative;
+    width: 100px;
+    margin: 0 auto;
+    font-weight: 900;
+    font-size: 2rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+.accordion li{
+    list-style-image: none;
+}
+
+.accordion-item{
+    background-color: transparent;
+}
+
+.accordion-button{
+    background-color: transparent;
+    color: var(--primary);
+    font-size: 1.2rem;
+    border: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.accordion-button[aria-expanded="true"]{
+    color: var(--primary3);
+    background-color: transparent;
+}
+
+.accordion-body{
+    color: var(--default);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.12rem;
+}
+
+.accordion-body ul li{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.accordion-body ul li::marker{
+    color: var(--primary);
+}
+
+.accordion-body code{
+    color: var(--primary3);
+    font-size: 1.05rem;
+}
+
+@media only screen and (max-width: 600px){
+    .container{
+        padding: 0;
+    }
+}
+
+@media only screen and (max-width: 360px){
+    .container{
+        min-width: 360px;
+    }
+}

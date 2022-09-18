@@ -1,0 +1,16 @@
+.collab
+{
+    display: flex;
+    /* border: 1px solid red; */
+    background-color:  rgba(58, 134, 0, 0.861);
+    min-width: 360px;
+}
+.Firstimg{
+    /* border: 1px solid yellow; */
+    width: 100%;
+}
+.ImgOne
+{
+    filter: invert(-1)!important;
+    margin-right: 100px;
+}

@@ -1,0 +1,21 @@
+.nft {
+    background-color: rgba(58, 134, 0, 0.861);
+    color: #fff;
+    padding: 30px 10%;
+    min-width: 360px;
+
+}
+
+.nft h1 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.nft p {
+    font-size: 1.2rem;
+    word-spacing: 4px;
+    text-align: justify;
+    font-family: 'Open Sans', sans-serif;
+}

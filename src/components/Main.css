@@ -1,0 +1,67 @@
+:root {
+    --primary: #59ab07;
+    --primary2: #4d8a0f;
+    --default: white;
+    --primary3: #80ff00;
+}
+
+main {
+    width: 100%;
+    position: sticky;
+    top: 0;
+    z-index: -1;
+    min-width: 360px;
+    overflow: hidden;
+}
+
+.icon {
+    /* background-color: aqua; */
+    width: 50px;
+    height: 50px;
+    /* border: 1px solid red; */
+    /* border-radius: 50%; */
+    position: absolute;
+    bottom: 15%;
+    left: 50%;
+    z-index: 4;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.icon div{
+    width: 20px;
+    height: 23px;
+    transform: rotate(45deg);
+    border-top: 5px solid var(--primary3);
+    border-left: 5px solid var(--primary3);
+    position: relative;
+    z-index: 999;
+    animation: animi 3s ease-in-out infinite;
+}
+
+.icon .icon-2{
+    transform: translateY(-15px) rotate(45deg);
+}
+
+@keyframes animi {
+    0%{
+        top: 0px;
+    }
+    50%{
+        top: 15px;
+
+    }
+    100%{
+        top: 0px;
+    }
+}
+
+@media only screen and (max-width: 510px){
+    main .icon {
+        display: none;
+    }
+}

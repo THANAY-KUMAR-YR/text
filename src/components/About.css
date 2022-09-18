@@ -1,0 +1,47 @@
+:root {
+    --primary: #59ab07;
+    --primary2: #4d8a0f;
+    --default: white;
+    --primary3: #80ff00;
+}
+
+.about {
+    width: 100%;
+    min-height: 100vh;
+    font-size: 1.3rem;
+    min-width: 360px;
+    padding: 55px;
+    text-align: justify;
+    background-image: url(../images/bg1.jpg);
+    background-position: center;
+    background-size: cover;
+    color: var(--default);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.about .info {
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    text-decoration-line: underline;
+    margin-bottom: 30px;
+}
+
+.about .info2 {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 35px;
+    text-align: center;
+}
+
+
+
+@media only screen and (max-width: 710px) {
+    .about {
+        font-size: 1rem;
+        padding: 25px;
+    }
+    .about .info2 {
+        line-height: 25px;
+        font-weight: 500;
+    }
+}

@@ -1,0 +1,301 @@
+[
+  {
+    "id": 1,
+    "card_title": "Long Term",
+    "card_info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, sunt. Fuga aut neque consequatur beatae corporis, rerum sit repellat natus voluptatibus quibusdam, numquam autem temporibus nobis aliquam magni non molestias, iste commodi laborum! Laborum architecto ducimus repellat illum quasi corporis quis, a sunt! Vitae aliquam veniam, iusto accusantium soluta accusamus neque enim corrupti expedita perferendis adipisci ad inventore animi cumque commodi deserunt debitis rem! Temporibus ipsam nisi nulla quos quae rerum consequatur dicta nemo voluptas illo deleniti quam incidunt natus alias officiis unde magnam, officia molestias debitis aliquid sed! Iste, aperiam quae odit animi nostrum, officia nihil amet suscipit perferendis praesentium quibusdam nulla mollitia ipsa laboriosam tempora deserunt!",
+    "card_img": [
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card1.jpeg?raw=true",
+        "title": "Mulburry"
+      },
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card2.jpeg?raw=true",
+        "title": "Sandalwood"
+      },
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card3.jpeg?raw=true",
+        "title": "Avocados"
+      },
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card4.jpeg?raw=true",
+        "title": "Coconut"
+      },
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card5.jpeg?raw=true",
+        "title": "SilverOak"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "card_title": "Mulberry",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card1.jpeg?raw=true",
+    "card_info": [
+      "Botanical Name: Morus",
+      " Harvesting Period: 6-10 years",
+      " It can grow around 10-12 feet in 3 years. The Sweet fruit of this tree looks like blackberry and varies in colour from red to deep purple."
+    ]
+  },
+  {
+    "id": 3,
+    "card_title": "Sandalwood",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card2.jpeg?raw=true",
+    "card_info": [
+      "Botanical Name: Santalum",
+      "Harvesting period: 10- 13 years.",
+      "Sandalwood is famous for its fragrance of wood. A true Sandalwood tree grows to a height of about 10 meters (3 feet).Both tree and roots contain a yellow aromatic oil called sandalwood oil, the odor of which persists for years."
+    ]
+  },
+  {
+    "id": 4,
+    "card_title": "Avocados",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card3.jpeg?raw=true",
+    "card_info": [
+      "Botanical Name: Persea Americana",
+      " Harvesting period: 3 years.",
+      "This fruit has a large berry containing a single large seed. Commercially, the fruits are picked while immature, and ripened after harvesting.Avocado trees can reach 80 feet in height. It is very rich in its nutritional value."
+    ]
+  },
+  {
+    "id": 5,
+    "card_title": "Coconut",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card4.jpeg?raw=true",
+    "card_info": [
+      "Botanical Name: Cocos Nucifera",
+      " Harvesting period: 3 to 8 years.",
+      "Coconut can be refered to the whole coconut palm, the seed or the fruit, which botanically is a drupe. Trees grow up to 30 meters tall can yield up to 75 fruits per year. In Sanskrit, it is Kalpa Vriksha , the tree which Provides all the necessities of life. This tree has a living span between 60 & 100 a year."
+    ]
+  },
+  {
+    "id": 6,
+    "card_title": "SilverOak",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card5.jpeg?raw=true",
+    "card_info": [
+      "Botanical Name: Grevillea robusta",
+      " Harvesting period: 10 years.",
+      "This is a fast growing evergreen tree with single main trunk. The trees grow to 20- 100 feet tall. The flowers are glabrous and mostly yellowish orange, or sometimes reddish."
+    ]
+  },
+  {
+    "id": 7,
+    "card_title": "Mid Term",
+    "card_info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, sunt. Fuga aut neque consequatur beatae corporis, rerum sit repellat natus voluptatibus quibusdam, numquam autem temporibus nobis aliquam magni non molestias, iste commodi laborum! Laborum architecto ducimus repellat illum quasi corporis quis, a sunt! Vitae aliquam veniam, iusto accusantium soluta accusamus neque enim corrupti expedita perferendis adipisci ad inventore animi cumque commodi deserunt debitis rem! Temporibus ipsam nisi nulla quos quae rerum consequatur dicta nemo voluptas illo deleniti quam incidunt natus alias officiis unde magnam, officia molestias debitis aliquid sed! Iste, aperiam quae odit animi nostrum, officia nihil amet suscipit perferendis praesentium quibusdam nulla mollitia ipsa laboriosam tempora deserunt!",
+    "card_img": [
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card6.jpeg?raw=true",
+        "title": "Guava"
+      },
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card7.jpeg?raw=true",
+        "title": "Citrus tree/Lemon"
+      },
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card8.jpeg?raw=true",
+        "title": "Peach Tree"
+      },
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card9.jpeg?raw=true",
+        "title": "Pomogranate"
+      },
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card10.jpeg?raw=true",
+        "title": "Orange"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "card_title": "Guava",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card6.jpeg?raw=true",
+    "card_info": [
+      "Botanical Name: Psidium guajava",
+      "Harvesting period 1-3 years.",
+      "Guava trees grow from seeds, slowly and may take 2-6 years to bear fruit. The fruit has a Sweet, smooth taste and fresh aroma. They have a green outer flesh, with skin some seeds wrapped inside."
+    ]
+  },
+  {
+    "id": 9,
+    "card_title": "Citrus Tree/Lemon",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card7.jpeg?raw=true",
+    "card_info": [
+      "Botanical name: Citrus tree/Lemon.",
+      " Harvesting time- 3-5 Years.",
+      "The citrus tree & nimboo & lemon is very popular in Indian gardens. This fruit is rich in Vitamin C, potassium, folic acid and other nutrients, which can boost health and immunity."
+    ]
+  },
+  {
+    "id": 10,
+    "card_title": "Peach tree",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card8.jpeg?raw=true",
+    "card_info": [
+      "Botanical name: Prunus persica.",
+      "Harvesting time - 2-4 yrs.",
+      "This fast growing tree takes 2-3 years to bear fruit, but with proper care. This tree can grow up to 20-25 feet tall, Since, this tree is the result of cross Pollination, two different Varieties can be planted the fruit with the Same flowering time. The fruit has yellow to white pulp fruit has with a floral fragrance."
+    ]
+  },
+  {
+    "id": 11,
+    "card_title": "Pomegranate",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card9.jpeg?raw=true",
+    "card_info": [
+      "Botanical name: Punica granatum",
+      "Harvesting period: 4-5 years.",
+      "This tree grows between sand 10 meters tall. A shrub growing pomegranate has multiple Spiny branches and is long lived."
+    ]
+  },
+  {
+    "id": 12,
+    "card_title": "Orange",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card10.jpeg?raw=true",
+    "card_info": [
+      "Botanical name: Citrus Sinesis. Harvesting period: 4-5 years",
+      "Orange trees are widely grown in tropical and Subtropical climates for their sweet fruit. It can reach 10 meters high. An orange has a tough shiny orange skin that holds acid in outside layer."
+    ]
+  },
+  {
+    "id": 13,
+    "card_title": "Short Term",
+    "card_info": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, sunt. Fuga aut neque consequatur beatae corporis, rerum sit repellat natus voluptatibus quibusdam, numquam autem temporibus nobis aliquam magni non molestias, iste commodi laborum! Laborum architecto ducimus repellat illum quasi corporis quis, a sunt! Vitae aliquam veniam, iusto accusantium soluta accusamus neque enim corrupti expedita perferendis adipisci ad inventore animi cumque commodi deserunt debitis rem! Temporibus ipsam nisi nulla quos quae rerum consequatur dicta nemo voluptas illo deleniti quam incidunt natus alias officiis unde magnam, officia molestias debitis aliquid sed! Iste, aperiam quae odit animi nostrum, officia nihil amet suscipit perferendis praesentium quibusdam nulla mollitia ipsa laboriosam tempora deserunt!"
+    ],
+    "card_img": [
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card1.jpeg?raw=true",
+        "title": "Onion"
+      },
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card2.jpeg?raw=true",
+        "title": "Tomatoes"
+      },
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card3.jpeg?raw=true",
+        "title": "Chilli"
+      },
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card4.jpeg?raw=true",
+        "title": "Passion Fruit"
+      },
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card5.jpeg?raw=true",
+        "title": "Spinach"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "card_title": "Onion",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card1.jpeg?raw=true",
+    "card_info": [
+      "Botanical name: Allium Cepa",
+      "The Onion plant has a has a fan of hollow, bluish-green leaves and its bulb at the base of the plant begins to swell when a Certain day- length is reached.",
+      "This is a hardy cool season biennial but usually -grown as annual crop."
+    ]
+  },
+  {
+    "id": 15,
+    "card_title": "Tomatoes",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card2.jpeg?raw=true",
+    "card_info": [
+      "Botanical Name: Solanum lycopersicum.",
+      "Tomatoes are a significant source of Umami flavour. They grow to 1-3 meters in height. They are classified as berries can be wed as a Vegetable."
+    ]
+  },
+  {
+    "id": 16,
+    "card_title": "Chilli",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card3.jpeg?raw=true",
+    "card_info": [
+      "Botanical Name: Capsicum annuum",
+      "Chilli peppers are widely used in many as a Cuisines as a spice to add heat to the dishes. chilli is a staple fruit in Bhutan. It is also used as a decorative garden plant."
+    ]
+  },
+  {
+    "id": 17,
+    "card_title": "Passion fruit",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card4.jpeg?raw=true",
+    "card_info": [
+      "Botanical Name: Passiflora edulis",
+      "The passion fruit is so called because it is one of the many species of passion flower. These are round/oval and range from a width of 1.5 to 3 inches."
+    ]
+  },
+  {
+    "id": 18,
+    "card_title": "Spinach",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card5.jpeg?raw=true",
+    "card_info": [
+      "Botanical Name: Spinacia Oleracea.",
+      "It is an imp. leaf vegetable.",
+      "The green flowering plant native to Central and western Asia. It is most productive in cool seasons and climate"
+    ]
+  },
+  {
+    "id": 19,
+    "card_title": "Live Stock",
+    "card_info": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, sunt. Fuga aut neque consequatur beatae corporis, rerum sit repellat natus voluptatibus quibusdam, numquam autem temporibus nobis aliquam magni non molestias, iste commodi laborum! Laborum architecto ducimus repellat illum quasi corporis quis, a sunt! Vitae aliquam veniam, iusto accusantium soluta accusamus neque enim corrupti expedita perferendis adipisci ad inventore animi cumque commodi deserunt debitis rem! Temporibus ipsam nisi nulla quos quae rerum consequatur dicta nemo voluptas illo deleniti quam incidunt natus alias officiis unde magnam, officia molestias debitis aliquid sed! Iste, aperiam quae odit animi nostrum, officia nihil amet suscipit perferendis praesentium quibusdam nulla mollitia ipsa laboriosam tempora deserunt!"
+    ],
+    "card_img": [
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card6.jpeg?raw=true",
+        "title": "Goat"
+      },
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card7.jpeg?raw=true",
+        "title": "Country Chicken"
+      },
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card8.jpeg?raw=true",
+        "title": "Farm Chicken"
+      },
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card9.jpeg?raw=true",
+        "title": "Fish"
+      },
+      {
+        "img": "https://github.com/ThanayKumarYR/img/blob/main/card10.jpeg?raw=true",
+        "title": "Cow"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "card_title": "Goat",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card6.jpeg?raw=true",
+    "card_info": [
+      "Goat is a excellence investment and particularly suitable to raise at the household level. Goat produce milk,fiber,leather and also source of meat which is very nutritious and valuable"
+    ]
+  },
+  {
+    "id": 21,
+    "card_title": "Country Chicken",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card7.jpeg?raw=true",
+    "card_info": [
+      "One of the benefits of investing on country chicken is brings high returns within a short period of timeand it is easy for marketing due to high demand for chicken all over the world."
+    ]
+  },
+  {
+    "id": 22,
+    "card_title": "Farm Chicken ",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card8.jpeg?raw=true",
+    "card_info": [
+      "One of the benefits of investing on country chicken is brings high returns within a short period of timeand it is easy for marketing due to high demand for chicken all over the world."
+    ]
+  },
+  {
+    "id": 23,
+    "card_title": "Fish ",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card9.jpeg?raw=true",
+    "card_info": [
+      "Fish farming involves breeding of fish usually for food in fish tanks or artificial enclosures such as fish ponds.","Our hired farmers will monitor the development of the fish and sell is later in future when the price increase"
+    ]
+  },
+  {
+    "id": 24,
+    "card_title": "Cow",
+    "card_img": "https://github.com/ThanayKumarYR/img/blob/main/card10.jpeg?raw=true",
+    "card_info": [
+      "Cattle rearing is considered the most profitable livestock and easiest to raise for profit.Resources like milk,meat,fiber and more can be gotten from cattle rearing"
+    
+    ]
+  }
+]
